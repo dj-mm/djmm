@@ -31,13 +31,13 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-## 🏆 Top Projects
+## 🏆 Top Projects  
 
-Here are some of my top projects:
+Here are some of my top projects:  
 
-- [YourLaptop](https://github.com/dj-mm/YourLaptop): A laptop recommendation platform based on price range and usage.
-- [MyDSA](https://dj-mm.github.io/MyDSA/): A linked list generator providing code and algorithms in C.
-- [FetchVocab](https://dj-mm.github.io/FetchVocab): An English word game with a student-friendly theme.
+- [**WishesHub**](https://dj-mm.github.io/WishesHub): A custom birthday wish generator based on user preferences with emojis and a copy feature.  
+- [**Morse Here**](https://dj-mm.github.io/MorseHere): A tool for encoding and decoding Morse code messages with a simple interface.  
+- [**QuickPic**](https://dj-mm.github.io/QuickPic): A gallery app to quickly display and organize pictures with seamless navigation.  
 
 ## 📫 Connect with Me
 
@@ -46,4 +46,8 @@ Here are some of my top projects:
 [![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:manashmishra.soraon@gmail.com)
 
 Thanks for visiting my profile! Have a great day! 😊
+
+
+
+
 
